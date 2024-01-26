@@ -1,5 +1,8 @@
 <h2>E ai Beleza?!</h2>
 
+<p>
+  Desenvolvedor Back end
+</p>
 <p>Me chamo Pedro Victor. Sou estudante de programação</p>
 
 <p>
