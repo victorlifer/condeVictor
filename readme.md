@@ -5,7 +5,9 @@
 <p>
   Me apaixonei pela TECH já faz uns 2 anos, sempre disposto a aprender mais cada dia, focado em resolver problemas cotidianos.
   Fácil na comunicação e em  trabalho em equipe. 
+  Minha linguagem de dominio é JavaScrip e PHP. Estou me  especializando em DBA, oracle e MySql.
 </p>
+
 <h2>Habilidades</h2>
 
 <div align="left">
