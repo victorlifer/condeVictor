@@ -1,6 +1,6 @@
 <h2>E ai Beleza?!</h2>
 
-Estudante de programação Back end com foco em Arquitetura. Focado em resolver problemas cotidianos.
+<p>Me chamo Pedro Victor. Sou estudante de programação</p>
 
 
 <div align="left">
